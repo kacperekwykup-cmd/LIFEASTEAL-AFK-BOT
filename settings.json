@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AnarchiaJJSMP.aternos.me:51991",
-    "port": 27586,
+    "ip": "AnarchiaJJSMP.aternos.me",
+    "port": 51991,
     "version": "",
     "try-creative": false
   },
